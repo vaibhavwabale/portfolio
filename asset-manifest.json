@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9ca9b0d3.chunk.css",
+    "main.js": "/portfolio/static/js/main.82eff572.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.82eff572.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.17bf6268.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.17bf6268.js.map",
+    "static/js/2.cc452a6d.chunk.js": "/portfolio/static/js/2.cc452a6d.chunk.js",
+    "static/js/2.cc452a6d.chunk.js.map": "/portfolio/static/js/2.cc452a6d.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.191259c9.chunk.js": "/portfolio/static/js/3.191259c9.chunk.js",
+    "static/js/3.191259c9.chunk.js.map": "/portfolio/static/js/3.191259c9.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/portfolio/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.43cbea07.chunk.js": "/portfolio/static/js/4.43cbea07.chunk.js",
+    "static/js/4.43cbea07.chunk.js.map": "/portfolio/static/js/4.43cbea07.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.3b2f7189318e07b262b257e3bd72431b.js": "/portfolio/precache-manifest.3b2f7189318e07b262b257e3bd72431b.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/portfolio/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.9ca9b0d3.chunk.css.map": "/portfolio/static/css/main.9ca9b0d3.chunk.css.map",
+    "static/js/2.cc452a6d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.cc452a6d.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/portfolio/static/media/1.2cc1e3e1.png",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/coursera.png": "/portfolio/static/media/coursera.3952f41b.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/garware.png": "/portfolio/static/media/garware.2d2b7058.png",
+    "static/media/intern.jpg": "/portfolio/static/media/intern.12497fc7.jpg",
+    "static/media/ite.svg": "/portfolio/static/media/ite.34edc652.svg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/modern.png": "/portfolio/static/media/modern.020f9b1e.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/spoken.jpg": "/portfolio/static/media/spoken.a0bffe0e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17bf6268.js",
+    "static/js/2.cc452a6d.chunk.js",
+    "static/css/main.9ca9b0d3.chunk.css",
+    "static/js/main.82eff572.chunk.js"
+  ]
+}
